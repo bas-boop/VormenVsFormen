@@ -1,3 +1,9 @@
+# Old project
+This is a old project. If you want to see questionable code then you are allowed to read it. If not, then go to another repo of me, for example:
+* [Platypus game](https://github.com/bas-boop/Platypus-game)
+* [Unity maze gen](https://github.com/bas-boop/Unity-maze-gen)
+* [Smoll Knight plus Horse](https://github.com/bas-boop/Smoll_Knight_plus_Horse)
+
 # VormenVsFormen
 
 This is my Tower Defense game made in Unity. This is a solo project. You can place, upgrade and sell towers. Towers and enemies have an element type, so use the right one.
